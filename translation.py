@@ -19,7 +19,7 @@ class Translation(object):
     start_buttons=[
         [
             InlineKeyboardButton('Source', url='https://github.com/FalconLoss/Manga-Uploader'), 
-            InlineKeyboardButton('Manga Channel', url='https://t.me/PDF_Manga'),
+            InlineKeyboardButton('Manga Channel', url='https://t.me/Adult_Manhwas'),
         ],
         [InlineKeyboardButton('Author', url='https://t.me/Falcon79')],
     ]
